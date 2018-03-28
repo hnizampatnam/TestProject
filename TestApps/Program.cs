@@ -152,5 +152,10 @@ namespace TestApps
             }//Added comment line to test changes
             return maxNo;
         }
+
+        private void NewMethod()
+        {
+            //This method was created from another machine
+        }
     }
 }
