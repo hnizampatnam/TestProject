@@ -14,6 +14,7 @@ namespace TestApps
             //int[] intArray = new int[] {0,0,1,1,3,5,6,7,7 };
             //int[] intArray = new int[] { 3, 3, 3, 3, 3, 3, 3, 3, 3 };123
             //int[] intArray = new int[] { 0, 0, 1, 2, 3, 5, 6, 2, 7 };000
+            //After user creation
             int totalNos = 9;
             int[] intArray = obj.ReadNumbers(totalNos);
             Console.WriteLine("Input array ");
